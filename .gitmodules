@@ -14,3 +14,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/16_plumbing
 	branch = main
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/16_plumbing.git
+	branch = main
