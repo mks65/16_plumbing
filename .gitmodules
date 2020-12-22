@@ -26,3 +26,7 @@
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c_16-plumbing.git
 	branch = master
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work16.git
+	branch = main
