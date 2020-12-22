@@ -18,3 +18,7 @@
 	path = yeGen
 	url = https://github.com/Gene1212/16_plumbing.git
 	branch = main
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_plumbing.git
+	branch = main
