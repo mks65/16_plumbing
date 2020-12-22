@@ -1,0 +1,4 @@
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_16_plumbing.git
+	branch = main
