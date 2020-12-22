@@ -34,3 +34,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/16_plumbing_J.git
 	branch = main
+[submodule "zhangDev"]
+	path = zhangDev
+	url = https://github.com/dzhang10/hw_16_plumbing.git
+	branch = master
