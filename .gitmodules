@@ -38,3 +38,7 @@
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_16_plumbing.git
 	branch = master
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/16_plumbing_vs.git
+	branch = main
