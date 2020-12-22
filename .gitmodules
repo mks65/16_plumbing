@@ -22,3 +22,7 @@
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_plumbing.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c_16-plumbing.git
+	branch = master
