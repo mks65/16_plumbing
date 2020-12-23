@@ -66,3 +66,7 @@
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw16.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/16_plumbing_mks.git
+	branch = main
