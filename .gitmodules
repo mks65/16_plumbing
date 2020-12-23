@@ -42,3 +42,7 @@
 	path = siuVic
 	url = https://github.com/vs2961/16_plumbing_vs.git
 	branch = main
+[submodule "siniscalcoFra"]
+	path = siniscalcoFra
+	url = https://github.com/NopeSiniscalco/16_plumbing_mks.git
+	branch = main
