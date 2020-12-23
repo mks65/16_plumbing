@@ -113,3 +113,7 @@
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-16
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_16.git
+	branch = main
