@@ -110,3 +110,6 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/16_plumbing.git
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-16
