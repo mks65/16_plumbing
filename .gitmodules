@@ -82,3 +82,7 @@
 	path = luRan
 	url = https://github.com/RandyLu0/Work16
 	branch = main
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/16_plumbing
+	branch = master
