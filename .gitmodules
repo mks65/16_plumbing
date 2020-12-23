@@ -86,3 +86,7 @@
 	path = ganHao
 	url = https://github.com/haotianGan/16_plumbing
 	branch = master
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_16_plumbing.git
+	branch = main
