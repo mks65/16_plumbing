@@ -102,3 +102,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/16_Plumbing.git
 	branch = main
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw16_plumbing
+	branch = master
