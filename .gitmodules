@@ -46,3 +46,7 @@
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/16_plumbing_mks.git
 	branch = main
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/work_16.git
+	branch = main
