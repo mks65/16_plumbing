@@ -78,3 +78,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work16_plumbing.git
 	branch = main
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work16
+	branch = main
