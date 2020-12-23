@@ -125,3 +125,7 @@
 	path = hernandezCar
 	url = https://github.com/KarlWithK/16_plumbing_mks.git
 	branch = master
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/plumbing.git
+	branch = master
