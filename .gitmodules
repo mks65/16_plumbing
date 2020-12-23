@@ -50,3 +50,7 @@
 	path = waldAle
 	url = https://github.com/SashaWald/work_16.git
 	branch = main
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/16_plumbing.git
+	branch = main
