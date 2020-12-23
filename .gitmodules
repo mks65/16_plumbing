@@ -58,3 +58,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/16_plumbing_zhangAle/
 	branch = master
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/16_systems.git
+	branch = main
